@@ -90,6 +90,9 @@ hr{
   text-decoration: none;
   color: #eaf6f6;
 }
+.btn:hover{
+  background-color: #09ecf4;
+}
 .bottom-container{
   background-color: #66BFBF;
   padding: 3.125rem 0 3rem 0;
