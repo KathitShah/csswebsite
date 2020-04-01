@@ -103,6 +103,9 @@ hr{
   text-decoration: none;
   font-size: 1.25rem;
 }
+.footer-link:hover{
+  color: #ffffff;
+}
 .copyright{
   color:#eaf6f6;
   font-size: 0.8rem;
